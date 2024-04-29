@@ -1,0 +1,585 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 1200px;
+    margin: 0 auto;
+}
+/* row1 */
+.row1{
+    width: 1200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+}
+.col1{
+    width: 400px;
+    height: 200px;
+    background-color: brown;
+    float: left;
+}
+/* coln */
+.coln{
+    width: 400px;
+    height: 70px;
+    background-color: crimson;
+}
+.coln1{
+    width: 200px;
+    height: 70px;
+    background-color: darkgreen;
+    
+}
+.coln2{
+    width: 200px;
+    height: 70px;
+    background-color: crimson;
+    
+}
+/* cola */
+.cola{
+    width: 400px;
+    height: 70px;
+    background-color: orange;
+}
+.cola1{
+    width: 135px;
+    height: 70px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.cola2{
+    width: 135px;
+    height: 70px;
+    background-color: cyan;
+    float: left;
+}
+
+.cola3{
+    width: 130px;
+    height: 70px;
+    background-color: darkblue;
+    float: left;
+}
+/* cols */
+.cols{
+    width: 400px;
+    height: 60px;
+    background-color: brown;
+}
+.cols1{
+    width: 100px;
+    height: 60px;
+    background-color: brown;
+    float: left;
+}
+.cols2{
+    width: 100px;
+    height: 60px;
+    background-color: yellow;
+    float: left;
+}
+.cols3{
+    width: 100px;
+    height: 60px;
+    background-color: red;
+    float: left;
+}
+.cols4{
+    width: 100px;
+    height: 60px;
+    background-color: white; 
+    float: left;
+}
+/* col2 */
+.col2{
+    width: 400px;
+    height: 200px;
+    background-color: darkcyan;
+    float: left;
+}
+.colj1{
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+    float: left;
+}
+.colj2{
+    width: 200px;
+    height: 200px;
+    background-color: darkgreen; 
+    float: left;
+}
+.colk1{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+.colk2{
+    width: 200px;
+    height: 100px;
+    background-color: darkcyan;
+}
+.coljk1{
+    width: 100px;
+    height: 100px;
+    background-color: lightslategray;
+    float: left;
+}
+.coljk2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.colj3{
+    width: 70px;
+    height: 200px;
+    background-color: chocolate;
+    float: left;
+}
+.colj4{
+    width: 70px;
+    height: 200px;
+    background-color: skyblue;
+    float: left;
+}
+.colj5{
+    width: 70px;
+    height: 200px;
+    background-color: darkgreen;
+    float: left;
+}
+/* col3 */
+.col3{
+    width: 400px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.colnk1{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    float: left;
+}
+.colnk1a{
+    width: 200px;
+    height: 70px;
+    background-color: darkgoldenrod;
+}
+.colnk2a{
+    width: 100px;
+    height: 70px;
+    background-color: aqua;
+    float: left;
+}
+.colnk3a{
+    width: 100px;
+    height: 70px;
+    background-color: darkslategrey;
+    float: left;
+}
+.colnka2{
+    width: 200px;
+    height: 70px;
+    background-color: maroon;
+}
+.colnka3{
+    width: 200px;
+    height: 60px;
+    background-color: darkslateblue;
+}
+.colnk2{
+    width: 200px;
+    height: 200px;
+    background-color:darkgoldenrod;
+    float: left;
+}
+.col2s{
+    width: 200px;
+    height: 100px;
+    background-color: darkgoldenrod;
+}
+.col2s{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+}
+/* row2 */
+.row2{
+    width: 1200px;
+    height: 200px;
+    background-color: darkgreen;
+} 
+/* col11 */
+.col11{
+    width: 400px;
+    height: 200px;
+    background-color: darkgreen;
+    float: left;
+}
+.col11n{
+    width: 400px;
+    height: 100px;
+    background-color: rgb(144, 119, 87);
+}
+.col11na{
+    width: 135px;
+    height: 100px;
+    background-color: #4a4117;
+    float: left;
+}
+.col11ns{
+    width: 135px;
+    height: 100px;
+    background-color: tan;
+    float: left;
+}
+.col11ns1{
+    width: 135px;
+    height: 50px;
+    background-color: teal;
+}
+.col11ns2{
+    width: 135px;
+    height: 50px;
+    background-color:yellowgreen;
+}
+.col11nn{
+    width: 130px;
+    height: 100px;
+    background-color: darkmagenta;
+    float: left;
+}
+.col11j{
+    width: 400px;
+    height: 100px;
+    background-color: darkgreen;
+}
+.col11j1{
+    width: 135px;
+    height: 100px;
+    background-color: darkgreen;
+    float: left;
+}
+.col11j2{
+    width: 135px;
+    height: 100px;
+    background-color: olive;
+    float: left;
+}
+.col11j3{
+    width: 130px;
+    height: 100px;
+    background-color:orange ;
+    float: left;
+}
+.col11jj{
+    width: 135px;
+    height: 50px;
+    background-color: indianred;
+}
+.col11jk{
+    width: 135px;
+    height: 50px;
+    background-color: maroon;
+}
+.col11j3a{
+    width: 75px;
+    height: 100px;
+    background-color: mediumaquamarine;
+    float: left;
+}
+.col11j3n{
+    width: 55px;
+    height: 100px;
+    background-color: orange;
+    float: left;
+}
+/* col22 */
+.col22{
+    width: 400px;
+    height: 200px;
+    background-color: teal;
+    float: left;
+}
+.col22n{
+    width: 400px;
+    height: 100px;
+    background-color: darkred;
+}
+.col22nk{
+    width: 200px;
+    height: 100px;
+    background-color: gold;
+    float: left;
+}
+.col22jk{
+    width: 200px;
+    height: 100px;
+    background-color: darkred;
+    float: left;
+}
+.col22s{
+    width: 400px;
+    height: 100px;
+    background-color: saddlebrown;
+}
+.col22ss{
+    width: 400px;
+    height: 50px;
+    background-color: plum;
+}
+.colsa{
+    width: 200px;
+    height: 50px;
+    background-color: olive;
+    float: left;
+}
+.colna{
+    width: 200px;
+    height: 50px;
+    background-color: saddlebrown;
+    float: left;
+}
+/* coll33 */
+.col33{
+    width: 400px;
+    height: 200px;
+    background-color: violet;
+    float: left;
+}
+.col33n{
+    width: 130px;
+    height: 200px;
+    background-color: #4a4117;
+    float: left;
+}
+.col33na{
+    width: 65px;
+    height: 100px;
+    background-color: darkorange;
+    float: left;
+}
+.col33sa{
+    width: 65px;
+    height: 100px;
+    background-color:dimgrey;
+    float: left;
+}
+.col33a{
+    width: 135px;
+    height: 200px;
+    background-color: violet;
+    float: left;
+}
+.col33s{
+    width: 135px;
+    height: 200px;
+    background-color: darkslategrey;
+    float: left;
+}
+.col33nk{
+    width: 135px;
+    height: 100px;
+    background-color: darkslategrey;
+}
+.col33nk{
+    width: 135px;
+    height: 100px;
+    background-color: darkturquoise;
+}
+/* row3 */
+.row3{
+    width: 1200px;
+    height: 200px;
+    background-color: darkred;
+} 
+/* col10 */
+.col10{
+    width: 400px;
+    height: 200px;
+    background-color: darkred;
+    float: left;
+}
+.col10n{
+    width: 400px;
+    height: 60px;
+    background-color: #0096ff;
+}
+.col10na{
+    width: 200px;
+    height: 60px;
+    background-color: #0096ff;
+    float: left;
+}
+.col10sa{
+    width: 200px;
+    height: 60px;
+    background-color: #ff10f0;
+    float: left;
+}
+.col10nk{
+    width: 100px;
+    height: 60px;
+    background-color: #808000;
+    float: left;
+}
+.col10jk{
+    width: 100px;
+    height:60px;
+    background-color: #ff10f0;
+    float: left;
+}
+.col10a{
+    width: 400px;
+    height: 70px;
+    background-color: darkred;
+}
+.col10an{
+    width: 200px;
+    height: 70px;
+    background-color: darkred;
+    float: left;
+}
+.col10as{
+    width: 200px;
+    height: 70px;
+    background-color: #673147;
+    float: left;
+}
+.col10ja{
+    width: 200px;
+    height: 35px;
+    background-color: #6731;
+}
+.col10hm{
+    width: 200px;
+    height: 35px;
+    background-color: darkgrey;
+}
+.col10j{
+    width: 400px;
+    height: 70px;
+    background-color: #808000;
+}
+
+/* col20 */
+.col20{
+    width: 400px;
+    height: 200px;
+    background-color:green;
+    float: left;
+}
+.col20n{
+    width: 135px;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+.col20na{
+    width: 135px;
+    height: 100px;
+    background-color: green;
+}
+.col20for{
+    width: 65px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+.col20for1{
+    width: 70px;
+    height: 100px;
+    background-color: whitesmoke;
+    float: left;
+}
+.col20m{
+    width: 135px;
+    height: 100px;
+    background-color: darkslategray;
+}
+.col20a{
+    width: 130px;
+    height: 200px;
+    background-color: darkorange;
+    float: left;
+}
+.col20nafi{
+    width: 130px;
+    height: 100px;
+    background-color: darkorange;
+}
+.col20nadira{
+    width: 130px;
+    height: 100px;
+    background-color: deeppink;
+}
+.colnadira{
+    width: 65px;
+    height: 100px;
+    background-color: deeppink;
+    float: left;
+}
+.colnafi{
+    width: 65px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.col20s{
+    width: 135px;
+    height: 200px;
+    background-color: darkblue;
+    float: left;
+}
+.col20nk{
+    width: 135px;
+    height: 100px;
+    background-color: darkblue;
+}
+.col201{
+    width: 65px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+.col20jk{
+    width: 135px;
+    height: 100px;
+    background-color: darkslategrey;
+}
+/* col30 */
+.col30{
+    width: 400px;
+    height: 200px;
+    background-color: purple;
+    float: left;
+}
+.col30j{
+    width: 200px;
+    height: 200px;
+    background-color:darkolivegreen;
+}
+.col30jk{
+    width: 100px;
+    height: 110px;
+    background-color: #673147;
+}
+.col30nk{
+    width: 200px;
+    height: 90px;
+    background-color: darkorange;
+}
+.col301{
+    width: 50px;
+    height: 110px;
+    background-color: #808000;
+    float: left;
+}
+.col302{
+    width: 50px;
+    height: 110px;
+    background-color: #673147;
+    float: left;
+}
